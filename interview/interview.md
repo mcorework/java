@@ -7,6 +7,8 @@ This document covers frequently asked Java interview questions from the Intervie
 ## Contents
 
 - https://www.interviewbit.com/java-interview-questions/
+- https://codefinity.com/blog/The-80-Top-Java-Interview-Questions-and-Answers
+
 
 ---
 
